@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Listado de Alumnos</string>
+    <string name="nav_alumnos">Alumnos</string>
+    <string name="nav_acerca_de">Acerca de</string>
+    <string name="foto_alumno">Foto del alumno</string>
+    <string name="editar_alumno">Editar alumno</string>
+    <string name="eliminar_alumno">Eliminar alumno</string>
+    <string name="agregar_alumno">Agregar Alumno</string>
+    <string name="sin_alumnos">No hay alumnos registrados</string>
+    <string name="sin_alumnos_subtitulo">Toca el botón + para agregar un nuevo alumno</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="cuenta">No. de Cuenta</string>
+    <string name="cuenta_format">Cuenta: %1$s</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="imagen_url">URL de la Imagen (opcional)</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar_eliminacion">¿Estás seguro de que deseas eliminar este alumno?</string>
+    <string name="si">Sí, eliminar</string>
+    <string name="no">Cancelar</string>
+    <string name="acerca_de_titulo">Acerca de la App</string>
+    <string name="acerca_de_mensaje">Sistema de Gestión y Listado de Alumnos con SQLite y Material Design.</string>
+</resources>
